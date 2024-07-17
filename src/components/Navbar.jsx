@@ -24,7 +24,7 @@ const Navbar = () => {
           <FaLinkedin className="text-blue-600" />
         </a>
         <a
-          href="https://github.com/your-username"
+          href="https://github.com/Harryjha"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-gray-700"
